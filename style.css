@@ -1,0 +1,16 @@
+h1 {
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+font-family: 'Times New Roman', Times, serif;
+}
+p {
+
+font-family: 'Times New Roman', Times, serif;
+}
+body {
+     background-image: url("../Imagens/47tv.gif");
+     background-repeat: no-repeat;
+     background-size: 100%;
+}
